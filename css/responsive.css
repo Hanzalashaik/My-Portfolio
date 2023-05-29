@@ -1,0 +1,227 @@
+@media only screen and (max-width:1016px){
+    .nav{
+        
+        flex-direction: column;
+        align-items: center;
+        padding-right: 50px;
+        transition: all 0.4s ease-out;
+        height:350px;
+        margin-right: -45px;
+    }
+    .nav-list{
+        flex-direction: column;
+        align-items: center;
+        margin-right: 167px;
+        margin-top: 12px;
+    }
+    .right{
+        margin-left: 137px;
+    }
+    .left{
+        margin-top: 10px;
+        
+    }
+    .contact-adjust{
+        margin-right: 2px;
+    }
+    .burger{
+        display:block;
+    }
+    .h-nav-resp{
+        height: 54px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .firstSection{
+        flex-direction: column;
+        margin-left: 0px;
+      }
+      .leftSection{
+        
+      font-size: 20px;
+      padding-right: 205px;
+      margin-bottom: 0.5%;
+      margin-left: -72px;
+      padding-left: 70px;
+      
+      }
+      .button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 153px;
+    }
+      
+      .btn1{
+    
+        font-size: 12px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-right: 21px;
+        padding-left: 19px;
+        margin-bottom: -17px;
+        margin-left: 86px;
+        
+      }
+      .btn2{
+        /* padding: 12px; */
+        font-size: 12px;
+       
+        padding-bottom: 5px;
+        padding-right: 11px;
+        padding-left: 11px;
+        margin-bottom: -13px;
+        margin-top: 5px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-top: 17px;
+        margin-left: 4px;
+        padding-left: 26px;
+        padding-right: 22px;        
+      }
+      .rightSection img{
+         width: 0px;
+        height: 0px;
+        margin-left:0px;
+        margin-bottom: 0x;
+        padding-bottom:0px; 
+        opacity: 0;
+      }
+      .text-resp{
+        margin-left: 97px;
+        margin-right: -182px;
+        text-align: center;
+      }
+      .hr1{
+        margin-top: -41px;
+      }
+      .About{
+        flex-direction: column;
+      }
+      .leftAbout{
+        margin-right: 132px;
+        margin-top: 10px;
+      }
+      .rightAbout{
+        font-size: 12px;
+        height: 20vh;
+        padding-bottom: 0%;
+        margin-top: 32px;
+        margin-bottom: 18px;
+        margin-left: 15px;
+      }
+      .cards1{
+        margin-top: 40px;
+        padding-top: 15px;
+        padding-bottom: 23px;
+      }
+      .card2{
+        padding-right: 27px;
+        padding-left: 24px;
+        padding-bottom: 4px;
+      }
+      .discription{
+        margin-left: 3%;
+      }
+      .secondSection p{
+        font-size: 15px;
+        margin-left: 13px;
+        margin-right: 7px;
+      }
+      .desp-resp{
+        font-size: 15px;
+        margin-left: 0px;
+        padding-left: 19px;
+        padding-right: 13px;
+        
+      }
+      .hr2 {
+        margin-top: 23px;
+    }
+      
+      .btn3{
+        margin-top: 24px;
+        margin-left: 126px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+      }
+      .Experience{
+        flex-direction: column;
+      }
+      .leftCard{
+        height: 38vh;
+        width: 30vh;
+      }
+      .leftCard h3{
+        font-size: large;
+      }
+      .rightCard{
+        height: 38vh;
+      }
+      .experienceContent {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+      .experienceContent h4 {
+        font-size: 12px;
+      }
+      .text-light{
+        font-size: 10px;
+      }
+      .experience_details-icons{
+        font-size: 13px;
+      }
+      .experience_details{
+        margin: 5px;
+      }
+      .experienceContent h5{
+        font-size: 7px;
+        margin-left: 32px;
+
+      }
+      .contact{
+        flex-direction: column;
+      }
+      .leftContact{
+        margin-top: -32px;
+        height: 596px;
+      }
+      .rightContact{
+        margin-top: -76px;
+      }
+      .contactForm{
+        margin-top: 72px;
+      }
+      #name{
+        margin-right: -40px;
+        margin-left: -36px;
+      }
+      #gmail{
+        margin-right: -40px;
+        margin-left: -36px;
+      }
+      #text{
+        margin-right: -40px;
+        margin-left: -36px;
+      }
+      #btn{
+        margin-left: 50px;
+      }
+      .footerContent{
+        height: 35vh;
+        margin-top: 37px;
+        padding-bottom: 59px;
+        margin-top: 165px;
+        padding-right: 8px;
+      }
+      
+      
+      .rightContact{
+       height: 55vh;
+      }
+      .logo_container{
+        margin-right: 32px;
+      }
+      
+}
